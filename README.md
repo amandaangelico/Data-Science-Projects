@@ -65,7 +65,7 @@ The core data comes from the Taste Profile Subset released by the Echo Nest as p
 
 In evaluation of the play_count distribution, the majority of users interacted with songs around 1 play count, which makes it challenging to evaluate user preference. The play_count feature is largely right-skewed. 
 
-<img src="play_count_distribution.png" width="600"/>
+<img src="play_count_density.png" width="600"/>
 
 The most prominent year in our final dataset is 2009, followed by 2008 and 2001. The year 2001 seems to be overepresented in the data. Prior to instating filters, 2001 was the most frequent year of release, but this issue is reduced in part after applying user play count thresholds. 
 
