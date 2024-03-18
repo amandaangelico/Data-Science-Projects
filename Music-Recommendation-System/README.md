@@ -43,6 +43,7 @@ The project utilizes the Taste Profile Subset from the Echo Nest as part of the 
 ### Data Source
 
 - [Million Song Dataset](http://millionsongdataset.com/)
+- [song_df and count_df](https://drive.google.com/drive/folders/1ODwlvrIwPPIYnwJcAu8K0ALYNMOZM2C9)
 
 ## Exploratory Data Analysis (EDA)
 
