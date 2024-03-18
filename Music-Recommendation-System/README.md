@@ -48,9 +48,9 @@ The project utilizes the Taste Profile Subset from the Echo Nest as part of the 
 
 The analysis revealed challenges such as the right-skewed distribution of play counts and the overrepresentation of songs from certain years. Insights and visualizations are detailed within the Jupyter notebook accompanying this project.
 
-![Alt text](Music-Recommendation-System/images/play_count_density.png)
-![Alt text](Music-Recommendation-System/images/year_distribution_pre-filter.png)
-![Alt text](Music-Recommendation-System/images/year_distribution_post-filter.png)
+![Alt text](images/play_count_density.png)
+![Alt text](images/year_distribution_pre-filter.png)
+![Alt text](images/year_distribution_post-filter.png)
 
 ## Key Challenges
 
