@@ -38,12 +38,18 @@ Given the dataset's size and the sparsity of user-product interactions, logical 
 ## Exploratory Data Analysis (EDA)
 
 The EDA focused on understanding the distribution of user ratings and identifying patterns and potential biases in user-product interactions. Initial findings highlighted a predominant number of 5-star ratings, indicating possible areas for model improvement.
-![Alt text](images/ratings_distribution.png)
+
 ![Alt text](images/ratings_distribution_percentages_and_counts.png)
-![Alt text](images/ratings_distribution_pygal_piechart.png)
-![Alt text](images/user-ratings_distribution_percentages_and_counts.png)
+
+![Alt text](images/ratings_distribution_cdf.png)
+
+We see that the y axis is representing the percentage/proportion of observations with a value less than or equal to a given x-value. As an example, 60% of the data is less than or equal to 5; 40% of the data is less than or equal to 4, etc. This visualization echoes what we've seen with our other plots, showing that there is an exceedingly high amount of 5 star ratings compared against the rest of the distribution.
+
 ![Alt text](images/user-product_interactions.png)
+
 ![Alt text](images/top10_users.png)
+
+The most active users are more inclined to give higher reviews according to our analysis.
 
 ## Key Challenges
 
