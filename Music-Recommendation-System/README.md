@@ -4,10 +4,6 @@
 
 This project was completed as part of the MIT Professional Education Applied Data Science Program capstone, and it aims to build a music recommendation system. Utilizing various data science and machine learning techniques, this system is designed to curate top songs tailored to individual user preferences, enhancing the music discovery experience on platforms like Spotify.
 
-### About the Author
-
-I'm Amanda Angelico, a legal professional with over 12 years of experience in Copyright Administration, Rights & Clearances, and Project/Program Management within major media and entertainment companies. I have a deep passion for data science, which I've woven into my career to drive effective decision-making with data-driven insights. In today’s data-centric business environment, my dual expertise has become an invaluable asset, bridging the gap between legal frameworks and innovative data applications to advance operational excellence.
-
 ## Problem Definition
 
 ### Context
