@@ -50,16 +50,16 @@ The project utilizes the Taste Profile Subset from the Echo Nest as part of the 
 In evaluation of the play count distribution, the majority of users interacted with songs around 1 play count, which makes it challenging to evaluate user preference. The play_count feature is largely right-skewed. Further insights and visualizations are detailed within the Jupyter notebook accompanying this project.
 
 <div align="center">
-  <img src="images/play_count.png" alt="Alt text" width="600"/> <!-- Adjust width as needed -->
+  <img src="images/play_count.png" alt="Alt text" width="600"/><br><br>
 </div>
 
 The most prominent year in our final dataset is 2009, followed by 2008 and 2001. The year 2001 seems to be overrepresented in the data. Prior to instating filters, 2001 was the most frequent year of release, but this issue is reduced in part after applying user play count thresholds. 
 
 <div align="center">
-  <img src="images/year_distribution_pre-filter.png" alt="Alt text" width="800"/> <!-- Adjust width as needed -->
+  <img src="images/year_distribution_pre-filter.png" alt="Alt text" width="800"/><br><br>
 </div>
 <div align="center">
-  <img src="images/year_distribution_post-filter.png" alt="Alt text" width="800"/> <!-- Adjust width as needed -->
+  <img src="images/year_distribution_post-filter.png" alt="Alt text" width="800"/><br><br>
 </div>
 
 
