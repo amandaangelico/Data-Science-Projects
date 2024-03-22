@@ -4,10 +4,6 @@
 
 This project was part of the MIT Professional Education Applied Data Science Program, and it aims to explore and implement a product recommendation system utilizing various data science and machine learning techniques. It is designed to enhance the online shopping experience by offering personalized product suggestions based on user preferences, thereby supporting customer retention and fostering a loyal customer base.
 
-### About the Author
-
-I'm Amanda Angelico, a legal professional with over 12 years of experience in Copyright Administration, Rights & Clearances, and Project/Program Management within major media and entertainment companies. I have a deep passion for data science, which I've woven into my career to drive effective decision-making with data-driven insights. In today’s data-centric business environment, my dual expertise has become an invaluable asset, bridging the gap between legal frameworks and innovative data applications to advance operational excellence.
-
 ## Problem Definition
 
 ### Context
