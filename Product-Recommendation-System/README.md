@@ -39,17 +39,21 @@ Given the dataset's size and the sparsity of user-product interactions, logical 
 
 The EDA focused on understanding the distribution of user ratings and identifying patterns and potential biases in user-product interactions. Initial findings highlighted a predominant number of 5-star ratings, indicating possible areas for model improvement.
 
-![Alt text](images/ratings_distribution_percentages_and_counts.png)
+<div align="center">
+  <img src="images/ratings_distribution_percentages_and_counts.png" alt="Ratings Distribution Percentages and Counts" width="800"/><br><br>
+</div>
 
-![Alt text](images/ratings_distribution_cdf.png)
+<div align="center">
+  <img src="images/ratings_distribution_cdf.png" alt="Ratings Distribution CDF" width="600"/><br><br>
+</div>
 
-We see that the y axis is representing the percentage/proportion of observations with a value less than or equal to a given x-value. As an example, 60% of the data is less than or equal to 5; 40% of the data is less than or equal to 4, etc. This visualization echoes what we've seen with our other plots, showing that there is an exceedingly high amount of 5 star ratings compared against the rest of the distribution.
+Above, we see that the y-axis is representing the percentage/proportion of observations with a value less than or equal to a given x-value. As an example, 60% of the data is less than or equal to 5; 40% of the data is less than or equal to 4, etc. This visualization echoes what we've seen with our other plots, showing that there is an exceedingly high amount of 5-star ratings compared against the rest of the distribution.
 
-![Alt text](images/user-product_interactions.png)
+<div align="center">
+  <img src="images/top10_users.png" alt="Top 10 Users" width="800"/><br><br>
+</div>
 
-![Alt text](images/top10_users.png)
-
-The most active users are more inclined to give higher reviews according to our analysis.
+The most active users are more inclined to give higher reviews according to our analysis, and although there are several possible explanations for this, it does raise some level of suspicion regarding ratings authenticity/data quality.
 
 ## Key Challenges
 
